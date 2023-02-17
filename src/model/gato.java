@@ -1,4 +1,4 @@
-package br.com.dio.model;
+package model;
 
 import java.util.Objects;
 

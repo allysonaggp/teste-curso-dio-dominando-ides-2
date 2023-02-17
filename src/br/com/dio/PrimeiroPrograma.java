@@ -1,8 +1,6 @@
 package br.com.dio;
 
-import br.com.dio.model.gato;
-
-import java.awt.datatransfer.StringSelection;
+import model.gato;
 
 public class PrimeiroPrograma {
     public static void main(String[] args) {
